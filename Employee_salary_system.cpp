@@ -15,7 +15,7 @@ class employee
     {
         cout<<"Enter employee no:";
         cin>>emp_no;
-        cout<<"Enter basic pay:";
+        cout<<"Enter your basic pay:";
         cin>>basic_pay;
     }
 
